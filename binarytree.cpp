@@ -16,7 +16,7 @@ class node{
 };
 node*buildTree(node*root){
     int data;
-    cout<<"enter the data:"<<endl;
+    cout<<"enter the data:   "<<endl;
     cin>>data;
     root=new node(data);
     if(data=-1){
