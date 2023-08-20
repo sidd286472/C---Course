@@ -1,0 +1,1 @@
+{"name":"Local: paraenthesis","url":"c:\\Users\\Hp\\Desktop\\contains all folders\\java\\C++ Course\\paraenthesis.cpp","tests":[{"id":1678901012280,"input":"{([])}","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Hp\\Desktop\\contains all folders\\java\\C++ Course\\paraenthesis.cpp","group":"local","local":true}

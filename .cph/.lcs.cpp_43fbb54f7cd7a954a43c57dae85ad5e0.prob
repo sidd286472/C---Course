@@ -1,0 +1,1 @@
+{"name":"Local: lcs","url":"c:\\Users\\Hp\\Desktop\\contains all folders\\java\\C++ Course\\lcs.cpp","tests":[{"id":1668838341856,"input":"5\n1\n2\n3\n4\n5\n5\n3\n5\n6\n78\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Hp\\Desktop\\contains all folders\\java\\C++ Course\\lcs.cpp","group":"local","local":true}
